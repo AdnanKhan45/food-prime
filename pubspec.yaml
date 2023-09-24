@@ -91,6 +91,9 @@ flutter:
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
   assets:
+    - assets/app_image_1.png
+    - assets/app_image_2.png
+    - assets/app_image_3.png
     - assets/app_logo.png
     - assets/burger_popular_1.png
     - assets/burger_popular_2.png

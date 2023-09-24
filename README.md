@@ -1,16 +1,12 @@
-# food_prime_app
+# Food Prime App
 
-A new Flutter project.
+Complete UI Design of Food Delivery App from (Flutter and Firebase Developer Bootcamp on YouTube)
+Here is the link: [Flutter and Firebase Developer Bootcamp on YouTube](https://www.youtube.com/playlist?list=PLbgNPmiSEwEa4AC4msITOYfY8WXOP2irn)
 
-## Getting Started
+![YouTube Thumbnail](https://img.youtube.com/vi/SyyYl4ag4Wc/maxresdefault.jpg)
 
-This project is a starting point for a Flutter application.
+## The Design
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Image 1](path_to_assets/app_image_1.png)
+![App Image 2](path_to_assets/app_image_2.png)
+![App Image 3](path_to_assets/app_image_3.png)

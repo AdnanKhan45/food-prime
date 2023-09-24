@@ -5,6 +5,9 @@
 class AssetsRes {
   static const String PLUGIN_NAME = 'food_prime_app';
   static const String PLUGIN_VERSION = '1.0.0+1';
+  static const String APP_IMAGE_1 = 'assets/app_image_1.png';
+  static const String APP_IMAGE_2 = 'assets/app_image_2.png';
+  static const String APP_IMAGE_3 = 'assets/app_image_3.png';
   static const String APP_LOGO = 'assets/app_logo.png';
   static const String BURGER_POPULAR_1 = 'assets/burger_popular_1.png';
   static const String BURGER_POPULAR_2 = 'assets/burger_popular_2.png';
