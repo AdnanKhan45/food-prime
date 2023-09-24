@@ -7,6 +7,6 @@ Here is the link: [Flutter and Firebase Developer Bootcamp on YouTube](https://w
 
 ## The Design
 
-![App Image 1](path_to_assets/app_image_1.png)
-![App Image 2](path_to_assets/app_image_2.png)
-![App Image 3](path_to_assets/app_image_3.png)
+![App Image 1](assets/app_image_1.png)
+![App Image 2](assets/app_image_2.png)
+![App Image 3](assets/app_image_3.png)
